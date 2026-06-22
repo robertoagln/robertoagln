@@ -28,4 +28,4 @@ Junior Data Migration Analyst. Curious about technology and software development
 ### 📫 Contato / Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertoagln)
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:robertoagln@proton.me)
+![Email](https://img.shields.io/badge/robertoagln@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)
